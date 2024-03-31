@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/8l2h58.gif"  />
+<img align="right" height="200" src="https://i.imgflip.com/8l2h58.gif"  />
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/channel/UCdUZvkt7OC_UP9jebe8dZbQ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
