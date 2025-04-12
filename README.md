@@ -11,6 +11,14 @@
 ###
 
 <div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-plain-wordmark.svg" height="30"/>
+  <img width="20">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain.svg" height="30"/>
+  <img width="20">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30"/>
+  <img width="20">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="30"/>
+  <img width="20">
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-plain.svg" height="30"/>
   <img width="20">
